@@ -1,6 +1,6 @@
-first_number = 1 
+first_number = 2 
 second_number = 2 
-sum = 3
-difference = -1
-product = 2 
-quotient = 0.5
+sum = 4
+difference = 0
+product = 4 
+quotient = 1
