@@ -1,5 +1,5 @@
 describe "./calculator.rb" do
-  first_number = "Hello world!"
+  first_number = 2
   it "contains a local variable called first_number that is assigned to a number" do
     first_number = get_variable_from_file('./calculator.rb', "first_number")
 
